@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **projects related to Data Science and Web Dev**
+- 👯 I’m looking to collaborate on **projects related to Deep Learning and Web Dev**
 
-- 🤝 I’m looking for help with **javascript, react.js and node.js**
+- 🤝 I’m looking for help with **OpenCV, Mediapipe and Tensorflow**
 
 - 💬 Interested in **knowing more data structures and algorithms and implementing AI-ML in future projects**
 
