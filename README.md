@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">🔭 I’m currently working on my projects.<br>👯 I’m looking to collaborate on projects related to Java Development.<br>🌱 I’m currently learning Springboot.<br>💬 Ask me about Data Structures, Machine Learning, and Coding.<br>⚡ Fun fact - I code without coffee.</p>
+<p align="center">🔭 I’m currently <b>working on my projects</b>.<br>👯 I’m looking to collaborate on <b>projects related to Java Development</b>.<br>🌱 I’m currently learning <b>Springboot</b>.<br>💬 Ask me about <b>Data Structures, Machine Learning, and Coding</b>.<br>⚡ Fun fact - <b><i></b>I code without coffee</i></b>.</p>
 
 ###
 
