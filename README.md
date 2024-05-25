@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">Tech I have an experience of:</h3>
+<h3 align="center">Tech Stax:</h3>
 
 ###
 
