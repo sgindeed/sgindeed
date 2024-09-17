@@ -56,12 +56,6 @@
   <a href="https://leetcode.com/maverick234/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="August badge" height="200" width="200" />
   </a>
-  <a href="https://leetcode.com/maverick234/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/Introduction_to_Pandas_Badge.gif" alt="Introduction to Pandas badge" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/maverick234/" target="_blank">
-    <img align="center" src="https://leetcode.com/static/images/badges/Top_SQL_50.gif" alt="Top SQL 50 badge" height="200" width="200" />
-  </a>
 </div>
 
 <h3 align="center">GitHub Stats:</h3>
