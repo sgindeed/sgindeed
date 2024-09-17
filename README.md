@@ -42,14 +42,26 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo" />
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="mailto:sgindeed234@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />  </a>
-  <a href="https://www.linkedin.com/in/supratim-ghosh-b07091241/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />  </a>
-  <a href="https://www.hackerrank.com/profile/maverick234" target="_blank">
-<img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />  </a>
+<h3 align="center">Leetcode Info</h3>
+<div align="center"> 
+  <a href="https://leetcode.com/maverick234/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" alt="50 days badge" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/maverick234/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="100 days badge" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/maverick234/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="May badge" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/maverick234/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="August badge" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/maverick234/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/badges/Introduction_to_Pandas_Badge.gif" alt="Introduction to Pandas badge" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/maverick234/" target="_blank">
+    <img align="center" src="https://leetcode.com/static/images/badges/Top_SQL_50.gif" alt="Top SQL 50 badge" height="200" width="200" />
+  </a>
 </div>
 
 <h3 align="center">GitHub Stats:</h3>
