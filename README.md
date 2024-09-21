@@ -63,13 +63,12 @@
       <img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="August badge" height="200" width="200" />
   </a>
 </div>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/maverick234?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
-<p align="center">
-  <img  align=top flex-grow=1 src="https://geeks-for-geeks-stats-card.vercel.app/?username=maverick234" alt="GFG stats"" />  
-</p>
+<div style="text-align: center;">
+  <img src="https://leetcard.jacoblin.cool/maverick234?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats" />
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=maverick234" alt="GFG stats" />
+  <img src="https://codechef-readme-stats.onrender.com/maverick234?v=1" alt="CodeChef stats" />
+</div>
+
 <h3 align="center">GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sgindeed&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
