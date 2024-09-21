@@ -75,7 +75,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sgindeed&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=sgindeed&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sgindeed&layout=compact&langs_count=8&theme=dracula" height="160" alt="languages graph" />
-</div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgindeed&theme=dracula"/>
 
 <h3 align="center">Profile Views:</h3>
 <div align="center">
