@@ -63,7 +63,7 @@
       <img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="August badge" height="200" width="200" />
   </a>
 </div>
-<div style="display: flex; flex-direction: column; align-items: center; position: absolute">
+<div style="display: flex; flex-direction: column; align-items: center; position: center">
   <img src="https://leetcard.jacoblin.cool/maverick234?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats" />
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=maverick234" alt="GFG stats" />
   <img src="https://codechef-readme-stats.onrender.com/maverick234?v=1" alt="CodeChef stats" style="margin-top: 20px;" />
