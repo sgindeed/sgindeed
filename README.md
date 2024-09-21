@@ -56,6 +56,12 @@
   <a href="https://leetcode.com/maverick234/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="August badge" height="200" width="200" />
   </a>
+  <a href="https://leetcode.com/maverick234/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="August badge" height="200" width="200" />
+  </a>
+  <a href="https://leetcode.com/maverick234/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="August badge" height="200" width="200" />
+  </a>
 </div>
 <p align="center">
   
