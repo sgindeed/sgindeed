@@ -73,11 +73,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sgindeed&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=sgindeed&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgindeed&layout=donut-vertical&langs_count=8&theme=dracula" height="400" width="500"alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sgindeed&theme=dracula"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=sgindeed&theme=dracula" alt="GitHub Trophy" />
+</a>
 
 <h3 align="center">Profile Views:</h3>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sgindeed/count.svg?" />
+<a href="https://u8views.com/github/sgindeed">
+  <img src="https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg" alt="GitHub Views" />
+</a>
 </div>
 
 
