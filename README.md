@@ -7,8 +7,10 @@
   👯 I’m looking to collaborate on <b>Java Development</b> projects.<br>
   🌱 I’m currently learning <b>Spring Boot</b>.<br>
   💬 Feel free to ask me about <b>Data Structures, Machine Learning, and Coding</b>.<br>
-  ⚡ Fun fact: <b><i>I code without coffee!</i></b>
+  ⚡ Fun fact: <b><i>I code without coffee!</i></b><br>
+  👻 <b>About me:</b> <a href="https://codolio.com/profile/maverick234">Coding Profile</a>
 </p>
+
 
 <h3 align="center">Tech Stack:</h3>
 <div align="center">
