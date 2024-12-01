@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Supratim</h1>
 
-<h3 align="center">Engineer | DSA Enthusiast | Thalassophile</h3>
+<h3 align="center">Engineer | CS Geek | History Buff</h3>
 
 <p align="center">
   🔭 I’m currently working on <b>various projects</b>.<br>
