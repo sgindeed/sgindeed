@@ -78,8 +78,8 @@
   </a>
 </div>
 <div style="display: flex; flex-direction: column; align-items: center; position: center">
-  <img src="https://leetcard.jacoblin.cool/maverick234?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats" />
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=maverick234" alt="GFG stats" />
+  <img align="center" src="https://leetcard.jacoblin.cool/maverick234?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats" />
+  <img align="center" src="https://geeks-for-geeks-stats-card.vercel.app/?username=maverick234" alt="GFG stats" />
 </div>
 
 <h3 align="center">Stats:</h3>
