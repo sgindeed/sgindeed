@@ -82,11 +82,19 @@
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=maverick234" alt="GFG stats" />
 </div>
 
-<h3 align="center">GitHub Stats:</h3>
+<h3 align="center">Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgindeed&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=sgindeed&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgindeed&layout=donut-vertical&langs_count=8&theme=dracula" height="400" width="500"alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sgindeed&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="stats graph" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgindeed&theme=neon&hide_border=false" alt="streak graph" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgindeed&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="languages graph" />
+</div>
+<h3 align="center">Random Dev Quote:</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
+</div>
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=sgindeed&theme=dracula" alt="GitHub Trophy" />
 </a>
