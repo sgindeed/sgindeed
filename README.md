@@ -96,7 +96,7 @@
 </div>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sgindeed&theme=dracula" alt="GitHub Trophy" />
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=sgindeed&theme=dracula" alt="GitHub Trophy" />
 </a>
 
 <h3 align="center">Profile Views:</h3>
