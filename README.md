@@ -85,6 +85,28 @@
   <img align="center" src="https://geeks-for-geeks-stats-card.vercel.app/?username=maverick234" alt="GFG stats" />
 </div>
 
+<table style="width: 100%; border: none;" align="center">
+  <h2 align="center"> Work Experience </h2>
+  <tr>
+    <th> 💼 Designation </th>
+    <th> 🏢 Organization </th>
+    <th> ⏰ Timeline </th>
+  </tr>
+
+  <tr>
+    <td> AI-ML Intern </td>
+    <td> IEMA Research & Development Pvt. Ltd., Kolkata </td>
+    <td> February 2025 – March 2025 </td>
+  </tr>
+
+  <tr>
+    <td> Software Developer Intern </td>
+    <td> National Institute of Technology, Durgapur </td>
+    <td> July 2024 – September 2024 </td>
+  </tr>
+</table>
+
+
 <h3 align="center">Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sgindeed&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="stats graph" />
