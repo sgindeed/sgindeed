@@ -93,6 +93,12 @@
     <th> ⏰ Timeline </th>
   </tr>
 
+<tr>
+    <td> Freelancer - Software Developer </td>
+    <td> C-TrialPro </td>
+    <td> May 2025 – June 2025 </td>
+  </tr>
+
   <tr>
     <td> AI-ML Intern </td>
     <td> IEMA Research & Development Pvt. Ltd., Kolkata </td>
@@ -105,11 +111,6 @@
     <td> July 2024 – September 2024 </td>
   </tr>
 
-  <tr>
-    <td> Freelancer - Software Developer </td>
-    <td> C-TrialPro </td>
-    <td> May 2025 – June 2025 </td>
-  </tr>
 </table>
 
 
