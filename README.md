@@ -96,7 +96,7 @@
 <tr>
     <td> Freelancer - Software Developer </td>
     <td> C-TrialPro </td>
-    <td> May 2025 – June 2025 </td>
+    <td> May 2025 – Present </td>
   </tr>
 
   <tr>
