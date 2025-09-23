@@ -8,7 +8,7 @@
   🌱 I’m currently learning <b>Spring Boot</b>.<br>
   💬 Feel free to ask me about <b>Data Structures, Machine Learning, and Coding</b>.<br>
   ⚡ Fun fact: <b><i>I code without coffee!</i></b><br>
-  👻 <b>About me:</b> <a href="https://codolio.com/profile/maverick234">Coding Profile</a>
+  👻 <b>About me:</b> <a href="https://supratim-ghosh-portfolio.netlify.app/">Portfolio</a>
 </p>
 
 
