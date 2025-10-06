@@ -142,6 +142,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sgindeed/sgindeed/output/snake.svg" alt="Snake animation" />
-<audio controls>
-  <source src="https://github.com/sgindeed/sgindeed/blob/main/Bujji%20Theme%20(From%20Kalki%202898%20AD).mp3" type="audio/mpeg">
-  </audio>
