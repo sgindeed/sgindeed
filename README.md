@@ -11,7 +11,6 @@
   👻 <b>About me:</b> <a href="https://supratim-ghosh-portfolio.netlify.app/">Portfolio</a>
 </p>
 
-
 <h3 align="center">Tech Stack:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo" />
@@ -80,6 +79,7 @@
       <img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="August badge" height="200" width="200" />
   </a>
 </div>
+
 <div style="display: flex; flex-direction: column; align-items: center; position: center">
   <img align="center" src="https://leetcard.jacoblin.cool/maverick234?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats" />
   <img align="center" src="https://geeks-for-geeks-stats-card.vercel.app/?username=maverick234" alt="GFG stats" />
@@ -113,7 +113,6 @@
 
 </table>
 
-
 <h3 align="center">Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sgindeed&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="stats graph" />
@@ -122,6 +121,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgindeed&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="languages graph" />
 </div>
+
 <h3 align="center">Random Dev Quote:</h3>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
@@ -138,7 +138,11 @@
 </a>
 </div>
 
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sgindeed/sgindeed/output/snake.svg" alt="Snake animation" />
+
+<h3 align="center">Holopin Badges:</h3>
+<p align="center">
+  [![An image of @sgindeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sgindeed)](https://holopin.io/@sgindeed)
+</p>
