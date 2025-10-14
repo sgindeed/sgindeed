@@ -144,5 +144,7 @@
 
 <h3 align="center">Holopin Badges:</h3>
 <p align="center">
-  [![An image of @sgindeed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sgindeed)](https://holopin.io/@sgindeed)
+  <a href="https://holopin.io/@sgindeed">
+    <img src="https://holopin.me/sgindeed" alt="Holopin badges"/>
+  </a>
 </p>
