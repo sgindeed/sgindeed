@@ -113,6 +113,252 @@
 
 </table>
 
+<h2 align="center">🚀 Notable Projects</h2>
+
+<div align="center">
+
+  <!-- FIRE.F.L.Y -->
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/sgindeed/Firefly">
+          <img src="https://media.tenor.com/5pZ7zx15LSsAAAAM/fire-lit.gif" width="100%" alt="FIRE.F.L.Y Project GIF"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🔥 F.I.R.E.F.L.Y - Fire & Smoke Detection</h3>
+        <p>
+          A real-time fire and smoke detection system with 95%+ accuracy, featuring a FastAPI backend, automated email alerts, and a MongoDB persistence layer.
+        </p>
+        <ul>
+          <li>95%+ Detection Accuracy</li>
+          <li>Concurrent FastAPI Backend</li>
+          <li>Automated Email Alerts</li>
+        </ul>
+        <b>Tech Stack:</b> Python • FastAPI • TensorFlow • Node.js • MongoDB • Computer Vision
+        <br><br>
+        <a href="https://github.com/sgindeed/Firefly"><b>🔗 GitHub Repository</b></a>
+      </td>
+    </tr>
+  </table>
+
+  <hr/>
+
+  <!-- GREENHACK -->
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://greenhack.netlify.app/">
+          <img src="https://media1.tenor.com/m/KqnODrl3EU8AAAAd/oz-yarimasu-farming.gif" width="100%" alt="Greenhack Project GIF"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🌿 Greenhack - IoT Agriculture Platform</h3>
+        <p>
+          An award-winning IoT agriculture platform that achieved 90%+ crop prediction accuracy and improved soil calibration precision by 25%.
+        </p>
+        <ul>
+          <li>🏆 1st Place HackOasis</li>
+          <li>90%+ Crop Prediction Accuracy</li>
+          <li>25% Precision Increase</li>
+        </ul>
+        <b>Tech Stack:</b> React • Node.js • XGBoost • Random Forest • IoT
+        <br><br>
+        <a href="https://greenhack.netlify.app/"><b>🌐 Live Demo</b></a>
+      </td>
+    </tr>
+  </table>
+
+  <hr/>
+
+  <!-- CHESTVISION -->
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://chestvision2-0.vercel.app/">
+          <img src="https://media1.tenor.com/m/12BYyMrTewkAAAAC/spongebob-breathing.gif" width="100%" alt="ChestVision Project GIF"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🩺 ChestVision - AI-Powered Pulmonary Health Analyst</h3>
+        <p>
+          An AI diagnostic tool for chest X-rays that converts local Air Quality Index (AQI) data into an equivalent "cigarettes smoked" metric.
+        </p>
+        <ul>
+          <li>AI X-Ray Diagnosis</li>
+          <li>AQI to Cigarette Metric</li>
+          <li>Health Risk Visualization</li>
+        </ul>
+        <b>Tech Stack:</b> Node.js • Express • Deep Learning • OpenWeatherMap API • Render • Vercel
+        <br><br>
+        <a href="https://chestvision2-0.vercel.app/"><b>🌐 Live Demo</b></a>
+      </td>
+    </tr>
+  </table>
+
+  <hr/>
+
+  <!-- CARBONWISE -->
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://carbon-wise-two.vercel.app/">
+          <img src="https://media1.tenor.com/m/3e5xTKIkoJYAAAAd/aesthetic-anime.gif" width="100%" alt="CarbonWise Project GIF"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🌎 CarbonWise - Gamified Carbon Tracking Platform</h3>
+        <p>
+          A gamified carbon tracking platform featuring personalized challenges, leaderboards, and an integrated carbon-offset marketplace.
+        </p>
+        <ul>
+          <li>Gamified Tracking System</li>
+          <li>Personalized Challenges</li>
+          <li>Offset Marketplace</li>
+        </ul>
+        <b>Tech Stack:</b> React • TypeScript • Node.js • Firebase
+        <br><br>
+        <a href="https://carbon-wise-two.vercel.app/"><b>🌐 Live Demo</b></a>
+      </td>
+    </tr>
+  </table>
+
+  <hr/>
+
+  <!-- S.H.I.V -->
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://s-h-i-v.onrender.com/">
+          <img src="https://i.pinimg.com/originals/20/08/5e/20085e3f4ce315d6dde52239298b0765.gif" width="100%" alt="S.H.I.V Project GIF"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🤖 S.H.I.V - AI-Powered Research Assistant</h3>
+        <p>
+          An AI-powered research assistant that lets users upload PDFs, docs, and images, then ask questions using the Gemini 2.0 Flash model.
+        </p>
+        <ul>
+          <li>Powered by Gemini 2.0</li>
+          <li>Multi-Format Q&A</li>
+          <li>Instant Smart Responses</li>
+        </ul>
+        <b>Tech Stack:</b> Gemini 2.0 • AI • React • Q&A • Render
+        <br><br>
+        <a href="https://s-h-i-v.onrender.com/"><b>🌐 Live Demo</b></a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
+<h2 align="center">💻 Hackathons Participated 💡</h2>
+
+<p align="center">
+  <b>Innovation on speedrun mode.</b>
+</p>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://www.linkedin.com/posts/supratim-ghosh-b07091241_hackoasis2024-firstplace-smartagriculture-activity-7265369441742262272-SvVs" target="_blank">
+          <img src="https://media.tenor.com/hVX6r4kDu00AAAAi/ai-grok.gif" width="150" alt="HackOasis 2024 AI Grok GIF"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🏆 HackOasis 2024</h3>
+        <p>
+          A hackathon hosted by <i>IEM Kolkata</i> where our team of 5 built the <b>GreenHack</b> project and secured first place.
+        </p>
+        <ul>
+          <li>🥇 <b>1st Position - Winners</b></li>
+          <li>Project: <b>GreenHack</b></li>
+          <li>Host: <i>IEM Kolkata</i></li>
+        </ul>
+        <br>
+        <a href="https://www.linkedin.com/posts/supratim-ghosh-b07091241_hackoasis2024-firstplace-smartagriculture-activity-7265369441742262272-SvVs" target="_blank"><b>🔗 View Achievement</b></a>
+      </td>
+    </tr>
+  </table>
+
+  <hr/>
+
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://unstop.com/certificate-preview/55b42d90-18ce-4ec2-b56e-096b1acc09fa" target="_blank">
+          <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68cb18a14d5fd_tf25_logo_white.png" width="150" alt="TantraFiesta'25 Logo"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🎖️ TantraFiesta’25</h3>
+        <p>
+          A national-level hackathon hosted by <i>IIIT Nagpur</i>, focused on innovative tech solutions.
+        </p>
+        <ul>
+          <li>Result: Certificate of Participation</li>
+          <li>Host: <i>IIIT Nagpur</i></li>
+        </ul>
+        <br>
+        <a href="https://unstop.com/certificate-preview/55b42d90-18ce-4ec2-b56e-096b1acc09fa" target="_blank"><b>🔗 View Certificate</b></a>
+      </td>
+    </tr>
+  </table>
+
+  <hr/>
+
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://unstop.com/certificate-preview/8df9dfe1-3c22-42a7-ae77-9dc6f43b6471" target="_blank">
+          <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68c18f508d3d4_save_20250908_221539.jpg" width="150" alt="Hack O Spider Logo"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🎖️ Hack O Spider</h3>
+        <p>
+          A competitive hackathon event hosted by <i>VGI, Greater Noida</i>.
+        </p>
+        <ul>
+          <li>Result: Certificate of Participation</li>
+          <li>Host: <i>VGI, Greater Noida</i></li>
+        </ul>
+        <br>
+        <a href="https://unstop.com/certificate-preview/8df9dfe1-3c22-42a7-ae77-9dc6f43b6471" target="_blank"><b>🔗 View Certificate</b></a>
+      </td>
+    </tr>
+  </table>
+
+  <hr/>
+
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://unstop.com/certificate-preview/f48edcee-7117-45df-91cf-a5976260f31d" target="_blank">
+          <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68d68f71d8a0b_enginow_logo.png" width="150" alt="Hackinow Logo"/>
+        </a>
+      </td>
+      <td width="50%">
+        <h3>🎖️ Hackinow</h3>
+        <p>
+          An innovation-driven hackathon organized by <i>PSIT Kanpur</i>.
+        </p>
+        <ul>
+          <li>Result: Certificate of Participation</li>
+          <li>Host: <i>PSIT Kanpur</i></li>
+        </ul>
+        <br>
+        <a href="https://unstop.com/certificate-preview/f48edcee-7117-45df-91cf-a5976260f31d" target="_blank"><b>🔗 View Certificate</b></a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
 <h3 align="center">Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sgindeed&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="stats graph" />
