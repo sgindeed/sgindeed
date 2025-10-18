@@ -355,7 +355,7 @@ An AI-powered research assistant that lets users upload PDFs, docs, and images, 
 <h4 style="margin: 10px 0; font-size: 18px;">Hack O Spider</h4>
 <p style="margin: 8px 0; font-size: 14px; opacity: 0.9;">VGI, Greater Noida</p>
 <div style="background: rgba(255,255,255,0.15); padding: 10px; border-radius: 8px; margin: 15px 0;">
-<p style="margin: 5px 0; font-size: 13px;">Competitive Coding Event</p>
+<p style="margin: 5px 0; font-size: 13px;">National Hack Fest</p>
 </div>
 <a href="https://unstop.com/certificate-preview/8df9dfe1-3c22-42a7-ae77-9dc6f43b6471" 
    target="_blank" 
