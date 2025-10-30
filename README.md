@@ -6,7 +6,7 @@
 🔭 I'm currently working on <b>various projects</b>.<br />
 👯 I'm looking to collaborate on <b>Java Development</b> projects.<br />
 🌱 I'm currently learning <b>Spring Boot</b>.<br />
-💬 Feel free to ask me about <b>Data Structures, Machine Learning, and Coding</b>.<br />
+💬 Feel free to ask me about <b>Data Structures, Algorithms, Machine Learning, and Conspiracy Theories</b>.<br />
 ⚡ Fun fact: <b><i>I code without coffee!</i></b><br />
 👻 <b>About me:</b> <a href="https://supratim-ghosh-portfolio.netlify.app/">Portfolio</a>
 </p>
@@ -104,9 +104,9 @@
 <th> ⏰ Timeline </th>
 </tr>
 <tr>
-<td> Freelancer - Software Developer </td>
-<td> C-TrialPro </td>
-<td> May 2025 – September 2025 </td>
+<td> Web Developer Intern</td>
+<td> C-TrialPro, Kolkata</td>
+<td> May 2025 – October 2025 </td>
 </tr>
 <tr>
 <td> AI-ML Intern </td>
