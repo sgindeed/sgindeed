@@ -229,7 +229,7 @@ An AI-powered research assistant that lets users upload PDFs, docs, and images, 
 
 
 
-| Logo | Hackathon & Venue | Track | Result |
+| Insignia | Hackathon & Venue | Track | Result |
 |:---:|:---|:---:|:---:|
 | <img src="https://iemhackoasis.iem.edu.in/logo.png" height="30"/> | **HackOasis 2024**<br>📍 *IEM, Kolkata* | GreenTech | 🥇 **Winner**<br>[View](https://www.linkedin.com/posts/supratim-ghosh-b07091241_hackoasis2024-firstplace-smartagriculture-activity-7265369441742262272-SvVs) |
 | <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68cb18a14d5fd_tf25_logo_white.png" width="60"/> | **TantraFiesta'25**<br>📍 *IIIT, Nagpur* | Quantum Computing | 🏆 **Finalist**<br>[Certificate](https://unstop.com/certificate-preview/55b42d90-18ce-4ec2-b56e-096b1acc09fa) |
