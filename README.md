@@ -222,6 +222,8 @@ An AI-powered research assistant that lets users upload PDFs, docs, and images, 
 
 </div>
 
+<br>
+
 <div align="center">
 
 ## Hackathons & Competitions  
