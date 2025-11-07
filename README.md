@@ -222,105 +222,24 @@ An AI-powered research assistant that lets users upload PDFs, docs, and images, 
 
 </div>
 
-<h2 align="center">Hackathons & Competitions</h2>
+## Hackathons & Competitions  
+**Turning ideas into reality under pressure**
 
-<p align="center">
-<b>Turning ideas into reality under pressure</b>
-</p>
+---
 
-<br>
+| Logo | Hackathon & Venue | Track | Result |
+|:---:|:---|:---:|:---:|
+| <img src="https://iemhackoasis.iem.edu.in/logo.png" height="30"/> | **HackOasis 2024**<br>📍 *IEM, Kolkata* | GreenTech | 🥇 **Winner**<br>[View](https://www.linkedin.com/posts/supratim-ghosh-b07091241_hackoasis2024-firstplace-smartagriculture-activity-7265369441742262272-SvVs) |
+| <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68cb18a14d5fd_tf25_logo_white.png" width="60"/> | **TantraFiesta'25**<br>📍 *IIIT, Nagpur* | Quantum Computing | 🏆 **Finalist**<br>[Certificate](https://unstop.com/certificate-preview/55b42d90-18ce-4ec2-b56e-096b1acc09fa) |
+| <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68c18f508d3d4_save_20250908_221539.jpg" width="60"/> | **Hack O Spider**<br>📍 *VGI, G. Noida* | Sustainability | 🏆 **National Hack Fest**<br>[Certificate](https://unstop.com/certificate-preview/8df9dfe1-3c22-42a7-ae77-9dc6f43b6471) |
+| <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68d68f71d8a0b_enginow_logo.png" width="60"/> | **Hackinow**<br>📍 *PSIT, Kanpur* | Climate | 🏆 **Innovation Challenge**<br>[Certificate](https://unstop.com/certificate-preview/f48edcee-7117-45df-91cf-a5976260f31d) |
+| <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/67c999392707e_NIT_durgapur_logo.jpg" width="60"/> | **Codefest**<br>📍 *NIT, Durgapur* | DSA | 🎖️ **Participation**<br>[Certificate](https://unstop.com/certificate-preview/f539614c-bd25-4acd-9f77-26999f4ae4cb) |
+| <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68d0f26e1c7a1_clublogo.png" width="60"/> | **Tatva's HackWave 1.0**<br>📍 *LPU, Punjab* | FinTech | 🎖️ **Participation**<br>[Certificate](https://unstop.com/certificate-preview/3b828f7d-a0c0-499c-b50e-e5cf0db54953) |
+| <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-683b1a4b0839b_afaefgeqwgwrgr.jpg" width="60"/> | **Hack Synthesis 2.0**<br>📍 *UEM, Kolkata* | Open Track | 🎖️ **Participation**<br>[Certificate](https://unstop.com/certificate-preview/bef565ca-67ec-4377-965b-3d16c2500e27) |
 
-<div align="center">
+---
 
-<!-- HackOasis 2024 - Winner Card -->
-<table style="width: 90%; max-width: 800px; margin: 20px auto; border-collapse: collapse; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-<tr>
-<td style="padding: 30px; text-align: center; color: white;">
-<div style="display: inline-block; background: rgba(255,255,255,0.2); padding: 15px 25px; border-radius: 50px; margin-bottom: 20px;">
-🏆 <b>WINNER</b>
-</div>
-<h3 style="margin: 15px 0; font-size: 28px;">HackOasis 2024</h3>
-<p style="margin: 10px 0; opacity: 0.9;">1st Place • IEM Kolkata</p>
-<div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin: 20px 0;">
-<p style="margin: 10px 0;">🏅 <b>GreenHack Project</b> - IoT Agriculture Platform</p>
-<p style="margin: 10px 0; font-size: 14px;">Award-winning solution for smart farming with 90%+ crop prediction accuracy</p>
-</div>
-<a href="https://www.linkedin.com/posts/supratim-ghosh-b07091241_hackoasis2024-firstplace-smartagriculture-activity-7265369441742262272-SvVs" 
-   target="_blank" 
-   style="display: inline-block; background: white; color: #667eea; padding: 12px 25px; border-radius: 25px; text-decoration: none; font-weight: bold; margin-top: 10px;">
-   🎬 View Achievement
-</a>
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Other Hackathons Grid -->
-<table style="width: 95%; max-width: 1000px; margin: 0 auto; border-collapse: collapse;">
-<tr>
-
-<!-- TantraFiesta'25 -->
-<td style="width: 33.33%; padding: 15px; vertical-align: top;">
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 25px; height: 100%; box-shadow: 0 8px 25px rgba(0,0,0,0.1); text-align: center; color: white;">
-<div style="background: rgba(255,255,255,0.2); width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px;">
-<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68cb18a14d5fd_tf25_logo_white.png" width="50" alt="TantraFiesta'25 Logo" style="border-radius: 50%;"/>
-</div>
-<h4 style="margin: 10px 0; font-size: 18px;">TantraFiesta'25</h4>
-<p style="margin: 8px 0; font-size: 14px; opacity: 0.9;">IIIT Nagpur</p>
-<div style="background: rgba(255,255,255,0.15); padding: 10px; border-radius: 8px; margin: 15px 0;">
-<p style="margin: 5px 0; font-size: 13px;">National Level Hackathon</p>
-</div>
-<a href="https://unstop.com/certificate-preview/55b42d90-18ce-4ec2-b56e-096b1acc09fa" 
-   target="_blank" 
-   style="display: inline-block; background: white; color: #f5576c; padding: 8px 16px; border-radius: 20px; text-decoration: none; font-size: 12px; font-weight: bold;">
-   📜 Certificate
-</a>
-</div>
-</td>
-
-<!-- Hack O Spider -->
-<td style="width: 33.33%; padding: 15px; vertical-align: top;">
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; padding: 25px; height: 100%; box-shadow: 0 8px 25px rgba(0,0,0,0.1); text-align: center; color: white;">
-<div style="background: rgba(255,255,255,0.2); width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px;">
-<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68c18f508d3d4_save_20250908_221539.jpg" width="50" alt="Hack O Spider Logo" style="border-radius: 50%;"/>
-</div>
-<h4 style="margin: 10px 0; font-size: 18px;">Hack O Spider</h4>
-<p style="margin: 8px 0; font-size: 14px; opacity: 0.9;">VGI, Greater Noida</p>
-<div style="background: rgba(255,255,255,0.15); padding: 10px; border-radius: 8px; margin: 15px 0;">
-<p style="margin: 5px 0; font-size: 13px;">National Hack Fest</p>
-</div>
-<a href="https://unstop.com/certificate-preview/8df9dfe1-3c22-42a7-ae77-9dc6f43b6471" 
-   target="_blank" 
-   style="display: inline-block; background: white; color: #4facfe; padding: 8px 16px; border-radius: 20px; text-decoration: none; font-size: 12px; font-weight: bold;">
-   📜 Certificate
-</a>
-</div>
-</td>
-
-<!-- Hackinow -->
-<td style="width: 33.33%; padding: 15px; vertical-align: top;">
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 15px; padding: 25px; height: 100%; box-shadow: 0 8px 25px rgba(0,0,0,0.1); text-align: center; color: white;">
-<div style="background: rgba(255,255,255,0.2); width: 80px; height: 80px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 15px;">
-<img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68d68f71d8a0b_enginow_logo.png" width="50" alt="Hackinow Logo" style="border-radius: 50%;"/>
-</div>
-<h4 style="margin: 10px 0; font-size: 18px;">Hackinow</h4>
-<p style="margin: 8px 0; font-size: 14px; opacity: 0.9;">PSIT Kanpur</p>
-<div style="background: rgba(255,255,255,0.15); padding: 10px; border-radius: 8px; margin: 15px 0;">
-<p style="margin: 5px 0; font-size: 13px;">Innovation Challenge</p>
-</div>
-<a href="https://unstop.com/certificate-preview/f48edcee-7117-45df-91cf-a5976260f31d" 
-   target="_blank" 
-   style="display: inline-block; background: white; color: #43e97b; padding: 8px 16px; border-radius: 20px; text-decoration: none; font-size: 12px; font-weight: bold;">
-   📜 Certificate
-</a>
-</div>
-</td>
-
-</tr>
-</table>
-
-</div>
+> 💬 *From climate-driven AI to quantum innovations — every hackathon was a new arena for experimentation and growth.*
 
 <br>
 
