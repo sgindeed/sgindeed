@@ -238,7 +238,7 @@ An AI-powered research assistant that lets users upload PDFs, docs, and images, 
 | <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/67c999392707e_NIT_durgapur_logo.jpg" width="60"/> | **Codefest**<br>📍 *NIT, Durgapur* | DSA | 🎖️ **Participation**<br>[Certificate](https://unstop.com/certificate-preview/f539614c-bd25-4acd-9f77-26999f4ae4cb) |
 | <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68d0f26e1c7a1_clublogo.png" width="60"/> | **Tatva's HackWave 1.0**<br>📍 *LPU, Punjab* | FinTech | 🎖️ **Participation**<br>[Certificate](https://unstop.com/certificate-preview/3b828f7d-a0c0-499c-b50e-e5cf0db54953) |
 | <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-683b1a4b0839b_afaefgeqwgwrgr.jpg" width="60"/> | **Hack Synthesis 2.0**<br>📍 *UEM, Kolkata* | Open Track | 🎖️ **Participation**<br>[Certificate](https://unstop.com/certificate-preview/bef565ca-67ec-4377-965b-3d16c2500e27) |
-| <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68ef9af889c94_vit_logo.png?d=200x200" width="60"/> | **Hashing Unlocked**<br>📍 *VIT, Vellore* | DSA | 🎖️ **Top 20**<br>[Result(https://unstop.com/hackathons/dsa-week-hashing-unlocked-vit-vellore-1574800/online-assessment/372893)]
+| <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68ef9af889c94_vit_logo.png?d=200x200" width="60"/> | **Hashing Unlocked**<br>📍 *VIT, Vellore* | DSA | 🎖️ **Top 20**<br>[Result](https://unstop.com/hackathons/dsa-week-hashing-unlocked-vit-vellore-1574800/online-assessment/372893)
 
 
 > *From climate-driven AI to quantum innovations — every hackathon was a new arena for experimentation and growth.*
