@@ -104,6 +104,11 @@
 <th> ⏰ Timeline </th>
 </tr>
 <tr>
+<td> Python Developer </td>
+<td> TCS, Kolkata</td>
+<td> December 2025 – Present </td>
+</tr>
+<tr>
 <td> Web Developer Intern</td>
 <td> C-TrialPro, Kolkata</td>
 <td> May 2025 – October 2025 </td>
