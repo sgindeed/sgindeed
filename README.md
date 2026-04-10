@@ -105,7 +105,7 @@
 </tr>
 <tr>
 <td> Python Developer </td>
-<td> TCS, Kolkata</td>
+<td> Tata Consultancy Services, Kolkata</td>
 <td> December 2025 – Present </td>
 </tr>
 <tr>
