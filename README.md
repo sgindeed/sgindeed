@@ -4,8 +4,8 @@
 
 <p align="center">
 🔭 I'm currently working on <b>various projects</b>.<br />
-👯 I'm looking to collaborate on <b>Java Development</b> projects.<br />
-🌱 I'm currently learning <b>Spring Boot</b>.<br />
+👯 I'm looking to collaborate on <b>Gen AI Development</b> projects.<br />
+🌱 I'm currently learning <b>Agentic AI and Swarm Intelligence</b>.<br />
 💬 Feel free to ask me about <b>Data Structures, Algorithms, Machine Learning, and Conspiracy Theories</b>.<br />
 ⚡ Fun fact: <b><i>I code without coffee!</i></b><br />
 👻 <b>About me:</b> <a href="https://supratimghosh-dev.netlify.app/">Portfolio</a>
