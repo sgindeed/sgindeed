@@ -128,116 +128,12 @@
 </tr>
 </table>
 
-<h2 align="center">Notable Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/sgindeed/Firefly" target="_blank">
-<img src="https://media.tenor.com/5pZ7zx15LSsAAAAM/fire-lit.gif" height="250" alt="FIRE.F.L.Y Project GIF"/>
-</a>
-<br />
-<a href="https://github.com/sgindeed/Firefly" target="_blank"><b>🔥 F.I.R.E.F.L.Y - Fire & Smoke Detection</b></a>
-<p align="center">
-A real-time fire and smoke detection system with <b>95%+ accuracy</b>, featuring a FastAPI backend, automated email alerts, and a MongoDB persistence layer.
-</p>
-<b>Tech Stack:</b>
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="Python logo" />
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="25" alt="FastAPI logo" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="25" alt="TensorFlow logo" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="Node.js logo" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="MongoDB logo" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="25" alt="OpenCV logo" />
-</div>
-
-<hr/>
-
-<a href="https://greenhack.netlify.app/" target="_blank">
-<img src="https://media1.tenor.com/m/KqnODrl3EU8AAAAd/oz-yarimasu-farming.gif" height="250" alt="Greenhack Project GIF"/>
-</a>
-<br />
-<a href="https://greenhack.netlify.app/" target="_blank"><b>🌿 Greenhack - IoT Agriculture Platform</b></a>
-<p align="center">
-An award-winning IoT agriculture platform that achieved <b>90%+ crop prediction accuracy</b> and improved soil calibration precision by 25%.
-<br/>
-🏆 Won <b>1st Place at HackOasis</b>.
-</p>
-<b>Tech Stack:</b>
-<div>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="React logo" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="Node.js logo" />
-<img src="https://img.shields.io/badge/XGBoost-0061A0?style=for-the-badge" height="25" alt="XGBoost logo" />
-<img src="https://img.shields.io/badge/Random_Forest-008000?style=for-the-badge" height="25" alt="Random Forest logo" />
-<img src="https://img.shields.io/badge/IoT-5570B2?style=for-the-badge" height="25" alt="IoT logo" />
-</div>
-
-<hr/>
-
-<a href="https://chestvision2-0.vercel.app/" target="_blank">
-<img src="https://media1.tenor.com/m/12BYyMrTewkAAAAC/spongebob-breathing.gif" height="250" alt="ChestVision Project GIF"/>
-</a>
-<br />
-<a href="https://chestvision2-0.vercel.app/" target="_blank"><b>🩺 ChestVision - AI-Powered Pulmonary Health Analyst</b></a>
-<p align="center">
-An AI diagnostic tool for chest X-rays that converts local Air Quality Index (AQI) data into an equivalent "cigarettes smoked" metric. Features <b>AI X-Ray Diagnosis</b> and Health Risk Visualization.
-</p>
-<b>Tech Stack:</b>
-<div>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="Node.js logo" />
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="Express logo" />
-<img src="https://img.shields.io/badge/Deep_Learning-B5002F?style=for-the-badge" height="25" alt="Deep Learning logo" />
-<img src="https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=for-the-badge" height="25" alt="OpenWeatherMap logo" />
-<img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge" height="25" alt="Render logo" />
-<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="25" alt="Vercel logo" />
-</div>
-
-<hr/>
-
-<a href="https://carbon-wise-two.vercel.app/" target="_blank">
-<img src="https://media1.tenor.com/m/3e5xTKIkoJYAAAAd/aesthetic-anime.gif" height="250" alt="CarbonWise Project GIF"/>
-</a>
-<br />
-<a href="https://carbon-wise-two.vercel.app/" target="_blank"><b>🌎 CarbonWise - Gamified Carbon Tracking Platform</b></a>
-<p align="center">
-A gamified carbon tracking platform featuring personalized challenges, leaderboards, and an integrated <b>carbon-offset marketplace</b>.
-</p>
-<b>Tech Stack:</b>
-<div>
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="React logo" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="TypeScript logo" />
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="Node.js logo" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="25" alt="Firebase logo" />
-</div>
-
-<hr/>
-
-<a href="https://s-h-i-v.onrender.com/" target="_blank">
-<img src="https://i.pinimg.com/originals/20/08/5e/20085e3f4ce315d6dde52239298b0765.gif" height="250" alt="S.H.I.V Project GIF"/>
-</a>
-<br />
-<a href="https://s-h-i-v.onrender.com/" target="_blank"><b>🤖 S.H.I.V - AI-Powered Research Assistant</b></a>
-<p align="center">
-An AI-powered research assistant that lets users upload PDFs, docs, and images, then ask questions using the <b>Gemini 2.0 Flash model</b> for instant smart responses.
-</p>
-<b>Tech Stack:</b>
-<div>
-<img src="https://img.shields.io/badge/Gemini-4285F4?logo=googlebard&logoColor=white&style=for-the-badge" height="25" alt="Gemini logo" />
-<img src="https://img.shields.io/badge/AI-4A90E2?style=for-the-badge" height="25" alt="AI logo" />
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="React logo" />
-<img src="https://img.shields.io/badge/Q%26A-6C63FF?style=for-the-badge" height="25" alt="Q&A logo" />
-<img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black&style=for-the-badge" height="25" alt="Render logo" />
-</div>
-
-</div>
-
 <br>
 
 <div align="center">
 
 ## Hackathons & Competitions  
 **Turning ideas into reality under pressure**
-
-
 
 | Insignia | Hackathon & Venue | Track | Result |
 |:---:|:---|:---:|:---:|
@@ -250,7 +146,6 @@ An AI-powered research assistant that lets users upload PDFs, docs, and images, 
 | <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-683b1a4b0839b_afaefgeqwgwrgr.jpg" width="60"/> | **Hack Synthesis 2.0**<br>📍 *UEM, Kolkata* | Open Track | 🎖️ **Participation**<br>[Certificate](https://unstop.com/certificate-preview/bef565ca-67ec-4377-965b-3d16c2500e27) |
 | <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68ef9af889c94_vit_logo.png?d=200x200" width="60"/> | **Hashing Unlocked**<br>📍 *VIT, Vellore* | DSA | 🎖️ **Top 20**<br>[Result](https://unstop.com/hackathons/dsa-week-hashing-unlocked-vit-vellore-1574800/online-assessment/372893)
 | <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/150x150/uploadedManual-68e664303e784_cb_hq_logo.png" width="60"/> | **Commit and Conquer**<br>📍 *IGDTUW, Delhi* | Open Source | 🎖️ **Contributor**<br>[Certificate](https://unstop.com/certificate-preview/d1aee74e-e6d3-487a-ad02-f71414d78440)
-
 
 > *From climate-driven AI to quantum innovations — every hackathon was a new arena for experimentation and growth.*
 
